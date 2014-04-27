@@ -1,7 +1,7 @@
 x86-Calculator
 ==============
 
-A basic x86 calculator I am making for my CIS341 class
+A basic x86 calculator
 
 The calculator needs to perform the following 5 operations
 - Addition (+)
