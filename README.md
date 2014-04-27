@@ -17,5 +17,7 @@ I implemented it as a Finite State Machine so that it only accepts the input in 
 for example
 
 123 + 456
+
 1 * 2
+
 -2 / 2
