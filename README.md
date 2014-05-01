@@ -1,7 +1,7 @@
 x86-Calculator
 ==============
 
-A basic x86 calculator
+A basic x86 calculator using Irvine32.inc library
 
 The calculator needs to perform the following 5 operations
 - Addition (+)
